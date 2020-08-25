@@ -19,9 +19,9 @@ object created in Main then call the printxml method which runs the queries and 
 xml object which it then exports to an xml file
 
 ## Assumptions:
-• Date ranges are valid and are of type string
-• Filename is valid.
-• Database access credentials are valis
+* Date ranges are valid and are of type string
+* Filename is valid.
+* Database access credentials are valis
 
 ## Reasons for Deployment:
 The code is written in such a way that’s easy to use and only requires 3 inputs from the user.
@@ -32,9 +32,9 @@ without needing to change other files.
 The application covers all of it’s functional requirements.
 
 ## Test Cases:
-• Dates are valid;
-• Filename is a string
-• Folder for file exists
-• Database credentials are valid
-• Database credentials aren’t alid
-• User enters empty filename and dates
+* Dates are valid;
+* Filename is a string
+* Folder for file exists
+* Database credentials are valid
+* Database credentials aren’t alid
+* User enters empty filename and dates
